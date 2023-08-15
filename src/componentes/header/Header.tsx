@@ -3,12 +3,12 @@ function Header(){
     return(
         <header>
             <div>
-                Tere Careca
+                Guilherme Terenciani
             </div>
             <nav>
                 <ul>
-                    <li><a href="#">Ajude</a></li>
-                    <li><a href="#">Esse</a></li>
+                    <li><a href="#">Tere</a></li>
+                    <li><a href="#">Careca</a></li>
                     <li><a href="#">Pobre</a></li>
                     <li><a href="#">Coitado</a></li>
                 </ul>
