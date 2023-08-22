@@ -1,5 +1,5 @@
 header{
-    background-color: aqua;
+    background-color: rgb(73, 187, 253);
     display: flex;
     justify-content: space-between;
     padding: 0px 10vw;
@@ -8,7 +8,7 @@ header{
 header nav ul li a{
     text-decoration: none;
     padding: 15px;
-    border: 1px solid rgb(0, 195, 255);
+    border: 1px solid rgb(0, 169, 236);
     color: white;
     border-radius: 20px;
 }

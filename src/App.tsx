@@ -1,8 +1,11 @@
 import './App.css'
-import Header from './componentes/header/Header'
+import Header from './header/Header'
+import Footer from './footer/Footer'
 function App() {
-  return (
-   <Header/>
+  return (<>
+  <Header/>
+  <Footer/>
+  </>
   )
 }
 
